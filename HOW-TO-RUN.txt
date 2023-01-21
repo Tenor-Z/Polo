@@ -1,0 +1,6 @@
+-Extract the ZIP file to your computer
+-Make sure all image and music files are in their proper places except instruction.wav and maingame.mp3
+-Run the main.py file!
+
+IN CASE OF CORRUPTION
+USE THE BACKUP.py file provided
